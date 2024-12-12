@@ -11,7 +11,7 @@ My GitHub page is http://github.com/jovannyreyes-23
 
 * Lab 7, Part 1
     
-    This lab was fun to do because of all the if statements we had to do in order to figure out when someone could park. We used bools, strings, and if statements to code the functions file. We learned how to use command line arguments to get the right amount of arguments in the terminal. It was cool using command line arguments to hold a string in each argument. This lab was a lot of less than, greater than, &, and, "or" arguments, so it was challenging using them correctly. But, we managed to figure it out and it was satisfying being able to run the program and tell us when we couldn't park. 
+    This lab was fun to do because of all the if statements we had to do in order to figure out when someone could park. We used bools, strings, and if statements to code the functions file. We learned how to use command line arguments to get the right amount of arguments in the terminal. It was cool using command line arguments to hold a string in each argument. This lab was a lot of less than, greater than, "and", and, "or" arguments, so it was challenging using them correctly. But, we managed to figure it out and it was satisfying being able to run the program and tell us when we couldn't park. 
 
 * Lab 8, Part 1
     
